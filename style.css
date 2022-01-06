@@ -1,3 +1,16 @@
-h1{
-    font-size:60px;
-}
+body{font-family: 'Poppins', sans-serif;
+    font-family: 'Spline Sans', sans-serif;}
+h1{font-size: 50px;}
+p{ font-size: 20px;}
+.blue-color{color: rgb(0, 140, 255);}
+.flexible-container{display: flex;
+    margin-bottom: 100px;}
+.half-width{ width: 50%;
+    padding-left: 10%;}
+.half-width img{  width: 50%;}
+.link-button{ text-decoration: none;
+    background-image: linear-gradient(rgb(255, 166, 0),rgb(255, 81, 0));
+    padding: 10px  40px;
+    border-radius: 5px;
+    color: whitesmoke;}
+.top-botton{text-align:center;}
